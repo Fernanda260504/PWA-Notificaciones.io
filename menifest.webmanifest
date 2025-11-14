@@ -1,9 +1,8 @@
 {
   "name": "PWA FCM Demo",
   "short_name": "FCM Demo",
-  "start_url": "/PWA-Notificaciones.io/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#111827"
-  
 }
